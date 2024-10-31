@@ -1,0 +1,4 @@
+{
+"en": {"title": "this is the title", "message": "this is the message <a href=\"http:\//www.geizhals.at\">link text</a>"},
+"de": {"title": "test title", "message": "test nachricht"}
+}
